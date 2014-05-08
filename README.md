@@ -7,3 +7,7 @@ It shows the decisions made by a client based on whether or not they are in a hu
 I will add instructions to each file so they would be pretty self explanatory and they are well commented. 
 
 Send me a message if you need help understanding it. 
+
+Feel free to use the files. All I ask is that you give me some credit OK? :)
+
+NaturalisSelectio
