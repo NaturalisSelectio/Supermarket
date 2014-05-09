@@ -11,3 +11,8 @@ Send me a message if you need help understanding it.
 Feel free to use the files. All I ask is that you give me some credit OK? :)
 
 NaturalisSelectio
+
+
+
+
+To run the program you need to download all the files and put them under the same package. 
